@@ -18,10 +18,17 @@ First, you clone your github directory to whatever computer you are using
 ```
 git clone https://github.com/ninthgiant/RStudio
 ```
-3. open a file into R studio:
+
+3. change directory into R studio
+```
+cd RStudio
+```
+
+4. open a file into R studio:
 
 ``` 
 open -a RStudio sample.R
 ```
 
+5. 
 
